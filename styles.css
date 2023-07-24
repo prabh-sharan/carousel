@@ -1,4 +1,8 @@
 
+
+body{
+    background-color: antiquewhite;
+}
 .carousel {
     max-width: 600px;
     position: relative;
